@@ -16,5 +16,5 @@ fn main() {
         .collect::<Vec<_>>();
     input.sort_by(|a, b| b.cmp(a));
     //let len = inputvec.len();
-    println!("{}", input[0] + input[1] + input[2]);
+    println!("{}", input[0..3].iter().sum::<i32>());
 }
