@@ -1,3 +1,3 @@
-Repo for writing elegant code I guess
+Repo because I remember AOC every year but dont finish it
 
-Look away if you don't like Rust or Scala (TBA)
+This year i'll be writing only production ready code /s
